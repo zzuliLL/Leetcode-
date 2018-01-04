@@ -1,4 +1,4 @@
-//╠╘а╕╠х╫ооб╬м©иртак
+О╩©//Ф ╢Е┼⌡Ф╞■Х╬┐Д╦▀Е╟╠Е▐╞Д╩╔Д╨├
 class Solution {
 public:
     int get_pre(string &a, string &b, int len)

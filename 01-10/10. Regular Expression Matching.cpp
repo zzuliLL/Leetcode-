@@ -1,4 +1,4 @@
-//借鉴dml学长博客：http://littleblank.net/archives/1045/
+﻿//借鉴dml学长博客：http://littleblank.net/archives/1045/
 class Solution {
 public:
     bool check(string s, int i, string p, int j)

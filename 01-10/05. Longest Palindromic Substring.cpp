@@ -1,4 +1,4 @@
-//����O(n^2)Ҳ�ܹ������ݲ�1000�����Ժܼ򵥣�������manacher�㷨�����Ӷ�O(n)
+﻿//暴力O(n^2)也能过，数据才1000，所以很简单，下面是manacher算法，复杂度O(n)
 
 class Solution
 {

@@ -1,4 +1,4 @@
-//╣╔╢©╠х╫ооб╬мOKак
+О╩©//Е█∙Г╨╞Ф╞■Х╬┐Д╦▀Е╟╠OKД╨├
 class Solution {
 public:
     bool isValid(string s) {

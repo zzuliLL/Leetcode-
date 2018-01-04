@@ -1,4 +1,4 @@
-//O(n^2)
+ï»¿//O(n^2)
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -19,7 +19,7 @@ public:
 };
 
 //O(n*log(n))
-//Í¨¹ýmap½øÐÐ¶þ·Ö
+//é€šè¿‡mapè¿›è¡ŒäºŒåˆ†
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {

@@ -1,4 +1,4 @@
-//ËÄÖÖÇé¿ö£¬Á½¸ºÒ»Õý£¬ Á½ÕýÒ»¸º£¬Èý¸ö0£¬Ò»¸ºÒ»ÕýÒ»¸ö0£¬mapÈ¥ÏÂÖØ
+ï»¿//å››ç§æƒ…å†µï¼Œä¸¤è´Ÿä¸€æ­£ï¼Œ ä¸¤æ­£ä¸€è´Ÿï¼Œä¸‰ä¸ª0ï¼Œä¸€è´Ÿä¸€æ­£ä¸€ä¸ª0ï¼ŒmapåŽ»ä¸‹é‡
 
 class Solution {
 public:
@@ -65,7 +65,7 @@ public:
 };
 
 
-//·¨2£ºdmlÑ§³¤Ð´µÄ£¬Ã¶¾ÙÒ»¸öÕÒÁíÍâÁ½¸öºÍÎªtargetµÄÊý(leetcodeµÚÒ»Ìâ)
+//æ³•2ï¼šdmlå­¦é•¿å†™çš„ï¼Œæžšä¸¾ä¸€ä¸ªæ‰¾å¦å¤–ä¸¤ä¸ªå’Œä¸ºtargetçš„æ•°(leetcodeç¬¬ä¸€é¢˜)
 
 class Solution {
 public:
