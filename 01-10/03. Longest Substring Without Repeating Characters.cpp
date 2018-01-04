@@ -1,4 +1,4 @@
-//复杂度O(n),简单尺取法
+//澶嶆潅搴(n),绠�鍗曞昂鍙栨硶
 
 class Solution {
 public:
