@@ -1,5 +1,4 @@
-//å€Ÿé‰´dmlå­¦é•¿åšå®¢ï¼šhttp://littleblank.net/archives/1045/
-
+//½è¼ødmlÑ§³¤²©¿Í£ºhttp://littleblank.net/archives/1045/
 class Solution {
 public:
     bool check(string s, int i, string p, int j)

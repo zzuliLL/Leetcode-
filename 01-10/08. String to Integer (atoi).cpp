@@ -1,6 +1,5 @@
 //这个题虽然简单，但需要注意读题，很坑啊
 
-
 class Solution {
 public:
     int myAtoi(string str) {
